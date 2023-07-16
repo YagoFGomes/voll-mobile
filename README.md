@@ -17,6 +17,6 @@ O aplicativo Voll é uma prova de conceito que visa utilizar a biblioteca Native
 
 #### Para executar o aplicativo em sua máquina local, siga as instruções a seguir:
 
-Clone o repositório do projeto em sua máquina local.
-Instale as dependências necessárias executando o comando npm install.
-Inicie a aplicação com o comando npx expo start.
+##### Clone o repositório do projeto em sua máquina local.
+##### Instale as dependências necessárias executando o comando npm install.
+##### Inicie a aplicação com o comando npx expo start.
